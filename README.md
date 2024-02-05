@@ -17,6 +17,7 @@ Hello, I'm Abanob Nabeh, a seasoned Flutter programmer with over 3 years of hand
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=vetical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AbanobNabeh&limit=5&theme=onedark&combine_all_yearly_contributions=true)
